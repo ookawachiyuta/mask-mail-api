@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+PyMySQL
+sshtunnel
+mysql
+ginza
+ja-ginza
+Flask-JWT-Extended
